@@ -492,34 +492,34 @@ img {
 }
 
 .skills__html {
-  width: 90%;
+  width: 100%;
 }
 
 .skills__css,
 .skills__js,
 .skills__node,
 .skills__eda {
-  width: 70%;
+  width: 100%;
 }
 
 .skills__php,
 .skills__ml,
 .skills__python,
 .skills__looker {
-  width: 80%;
+  width: 100%;
 }
 
 .skills__angular {
-  width: 5%;
+  width: 100%;
 }
 
 .skills__eda,
 .skills__java {
-  width: 75%;
+  width: 100%;
 }
 
 .skills__power {
-  width: 60%;
+  width: 100%;
 }
 
 .skills__close .skills__list {
